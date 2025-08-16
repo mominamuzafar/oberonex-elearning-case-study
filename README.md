@@ -29,6 +29,14 @@ The goal was to deliver a structured training portal with course pages, lesson f
 ## Project Link
 [Live Website](https://learn.oberonex.com/)
 
-## Screenshots
+## 📷 Screenshots
+<details>
+<summary>📸 View Screens</summary>
+
+**Homepage**  
 ![Home](assets/home.png)
+**Mobile Contact Form**  
 ![Mobile](assets/mobile.png)
+
+</details>
+
