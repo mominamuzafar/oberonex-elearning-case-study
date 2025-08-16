@@ -1,32 +1,39 @@
-# Oberonex E-Learning – Case Study
+# Oberonex E-Learning – Case Study  
 
-This repository contains the case study of the Oberonex e-learning portal, built with WordPress and Elementor with an LMS plugin.
+A structured training portal developed for Oberonex, built with WordPress and Elementor, integrated with an LMS plugin to deliver course content, quizzes, and progress tracking.  
 
-## Project Overview
-The goal was to deliver a structured training portal with course pages, lesson flow, and easy content updates. Focus on clear navigation, mobile usability, and quick load times.
+## 📌 Project Overview  
+The goal was to create an online learning platform with course pages, lesson flow, and easy content updates. The design emphasizes mobile usability, organized course navigation, and optimized performance for smooth user experience.  
 
-## Key Features
-- Course, lesson, and quiz page templates
-- Mobile-friendly layouts
-- Organized categories and breadcrumb navigation
-- Contact/lead capture for enrollments
-- Performance basics (caching & image optimization)
+## 🛠 Tech Stack  
+- WordPress  
+- Elementor & Elementor Pro  
+- LMS plugin (e.g., LearnDash or equivalent)  
+- LiteSpeed Cache  
+- SEO plugin (Yoast/RankMath)  
+- Image optimization plugins  
 
-## Tools & Technologies
-- WordPress
-- Elementor (page building)
-- LMS plugin (e.g., LearnDash or equivalent)
-- LiteSpeed Cache (performance)
-- SEO plugin (Yoast/RankMath)
-- Image optimization plugin
+## 💼 My Role  
+- Theme & LMS setup and configuration  
+- Course, lesson, and quiz page templates  
+- Page layout design using Elementor  
+- Content structuring & course organization  
+- Performance optimization (caching & image compression)  
+- Basic SEO setup for course content visibility  
 
-## My Role
-- Theme/LMS setup & configuration
-- Page layout design using Elementor
-- Content structuring & course organization
-- Performance & basic SEO setup
+## 🚀 Key Results  
+- Streamlined course flow with lessons and quizzes  
+- Improved mobile usability for learners  
+- Faster load times with caching and image optimization  
+- Clear course categorization with breadcrumb navigation  
+- Increased enrollments via optimized contact/lead capture forms  
 
-## Project Link
+## ⚡ Challenges & Solutions  
+**Challenge:** Delivering a smooth learning flow (lessons → quizzes → progress tracking) while ensuring ease of content updates for non-technical staff. 
+
+**Solution:** Integrated an LMS plugin with Elementor templates, creating reusable layouts for lessons and quizzes while maintaining easy backend management.  
+
+## 🔗 Project Link
 [Live Website](https://learn.oberonex.com/)
 
 ## 📷 Screenshots
